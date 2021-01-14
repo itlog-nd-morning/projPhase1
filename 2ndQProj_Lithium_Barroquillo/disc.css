@@ -1,0 +1,30 @@
+
+body {
+	text-align:center;
+	background-color: #fff8dc;}
+	
+h1 {
+	font-family: "Lucida Console", Monaco, Monospace;
+	font-size: 3vw;
+	color: #008000;
+}
+
+h2 {
+	font-family: Garamond, "Times New Roman", Serif;
+	font-size: 2.5vw;
+	color: #228b22;}
+	
+ul {
+    margin:0;
+    padding:0;
+    text-align: center;	
+    list-style:none;
+}
+ul	li {
+     padding: 2px 5px;
+     font-size: 1.5vw;	 
+}
+	
+
+	
+	
